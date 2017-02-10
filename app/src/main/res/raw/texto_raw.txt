@@ -1,0 +1,2 @@
+Leer el fichero desde un recurso
+Fin del texto

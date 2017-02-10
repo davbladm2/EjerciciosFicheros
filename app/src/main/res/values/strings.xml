@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EjerciciosFicheros</string>
+    <string name="contenidoEscribir">Contenido a escribir:</string>
+    <string name="anadirFichInt">Añadir fich. Int.</string>
+    <string name="anadirFichExt">Añadir fich. Ext.</string>
+    <string name="leerFichInt">Leer Fich. Int.</string>
+    <string name="leerFichExt">Leer Fich. Ext.</string>
+    <string name="leerRecurso">Leer recurso</string>
+    <string name="borrarFichInt">Borrar fich. int.</string>
+    <string name="borrarFichExt">Borrar fich. ext.</string>
+    <string name="contenidoFichero">El contenido del fichero es:\n</string>
+</resources>
