@@ -9,4 +9,7 @@
     <string name="borrarFichInt">Borrar fich. int.</string>
     <string name="borrarFichExt">Borrar fich. ext.</string>
     <string name="contenidoFichero">El contenido del fichero es:\n</string>
+    <string name="ejercicio1">Ejercicio 1</string>
+    <string name="ejercicio2">Ejercicio 2</string>
+    <string name="ejercicio3">Ejercicio 3</string>
 </resources>
