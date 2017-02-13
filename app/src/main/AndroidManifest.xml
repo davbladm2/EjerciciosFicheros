@@ -23,8 +23,10 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
-        <activity android:name=".Ejercicio1"></activity>
-        <activity android:name=".Ejercicio2"></activity>
+
+        <activity android:name=".Ejercicio1" />
+        <activity android:name=".Ejercicio2" />
+        <activity android:name=".Ejercicio3"></activity>
     </application>
 
 </manifest>

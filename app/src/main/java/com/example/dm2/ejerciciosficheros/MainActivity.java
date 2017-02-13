@@ -25,5 +25,10 @@ public class MainActivity extends AppCompatActivity {
             intent=new Intent(MainActivity.this,Ejercicio2.class);
             startActivity(intent);
         }
+
+        if(v.getId()==R.id.buttonEjercicio3){
+            intent=new Intent(MainActivity.this,Ejercicio3.class);
+            startActivity(intent);
+        }
     }
 }
